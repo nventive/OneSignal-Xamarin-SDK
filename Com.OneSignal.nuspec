@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
-        <id>Com.OneSignal</id>
+        <id>Com.OneSignal.nventive</id>
         <version>3.1.1</version>
-        <title>OneSignal SDK for Xamarin</title>
+        <title>nventive version of OneSignal SDK for Xamarin</title>
         <authors>OneSignal, Martijn van Dijk</authors>
         <owners>OneSignal</owners>
         <licenseUrl>https://github.com/OneSignal/OneSignal-Xamarin-SDK/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/OneSignal/OneSignal-Xamarin-SDK</projectUrl>
         <iconUrl>https://github.com/OneSignal/OneSignal-Xamarin-SDK/blob/master/nuget_icon.png?raw=true</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>OneSignal for Xamarin</description>
+        <description>nventive version of OneSignal for Xamarin</description>
         <summary>OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Xamarin app with OneSignal</summary>
         <tags>xamarin, monodroid, C#, OneSignal, push</tags>
         <dependencies>
