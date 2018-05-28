@@ -1,0 +1,1 @@
+msbuild /p:Configuration=Release /p:"Platform=Any CPU" /bl Com.OneSignal.Android/Com.OneSignal.Android.csproj /p:OutputPath=/Signal
