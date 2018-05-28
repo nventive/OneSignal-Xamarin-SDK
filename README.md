@@ -7,7 +7,7 @@
 
 ---
 
-[OneSignal](https://onesignal.com) is a free push notification service for mobile apps. This plugin makes it easy to integrate your Xamarin application with OneSignal.
+[OneSignal](https://onesignal.com) is a free push notification service for mobile apps. This plugin makes it easy to integrate your Xamarin application with OneSignal
 
 ![alt text](https://onesignal.com/images/android_and_ios_notification_image.gif)
 
