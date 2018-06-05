@@ -22,6 +22,10 @@
     <DefineConstants>TRACE;RELEASE;NETSTANDARD1_0;PORTABLE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="GitVersionTask" Version="4.0.0-beta0012">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
   </ItemGroup>
 
