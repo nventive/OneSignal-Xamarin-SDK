@@ -3,7 +3,10 @@
 </p>
 
 ### OneSignal Xamarin SDK
-[![NuGet](https://img.shields.io/nuget/v/Com.OneSignal.svg?label=NuGet)](https://www.nuget.org/packages/Com.OneSignal)
+[![NuGet](https://img.shields.io/nuget/v/nventive.Com.OneSignal.svg?label=NuGet)](https://www.nuget.org/packages/nventive.Com.OneSignal)
+
+
+Forked from https://github.com/OneSignal/OneSignal-Xamarin-SDK
 
 ---
 
@@ -18,10 +21,10 @@ See the [Setup Documentation](https://documentation.onesignal.com/docs/xamarin-s
 See OneSignal's [Xamarin SDK API](https://documentation.onesignal.com/docs/xamarin-sdk) page for a list of all available methods.
 
 #### Change Log
-See this repository's [release tags](https://github.com/OneSignal/OneSignal-Xamarin-SDK/releases) for a complete change log of every released version.
+See this repository's [release tags](https://github.com/nventive/OneSignal-Xamarin-SDK/releases) for a complete change log of every released version.
 
 #### Support
-Please visit this repository's [Github issue tracker](https://github.com/OneSignal/OneSignal-Xamarin-SDK/issues) for feature requests and bug reports related specificly to the SDK.
+Please visit this repository's [Github issue tracker](https://github.com/nventive/OneSignal-Xamarin-SDK/issues) for feature requests and bug reports related specificly to the SDK.
 
 For account issues and support please contact OneSignal support from the [OneSignal.com](https://onesignal.com) dashboard.
 
