@@ -29,14 +29,14 @@
                 <dependency id="Xamarin.Android.Support.CustomTabs" version="[25.0.0, 26.0.0)" />
                 <dependency id="Xamarin.GooglePlayServices.Gcm" version="[42.1021.1, 60.1143.0)" />
             </group>
-            <group targetFramework="netstandard1.0">
+            <group targetFramework="netstandard2.0">
                 <dependency id="NETStandard.Library" version="1.6.1" />
             </group>
         </dependencies>
     </metadata>
     <files>
         <!--Core-->
-        <file src="Com.OneSignal\bin\Release\Com.OneSignal.*" target="lib\netstandard1.0" />
+        <file src="Com.OneSignal\bin\Release\netstandard2.0\Com.OneSignal.*" target="lib\netstandard2.0" />
         
         <!--Xamarin.Android-->
         <file src="Com.OneSignal.Android\bin\Release\*OneSignal.*" target="lib\MonoAndroid10" />
