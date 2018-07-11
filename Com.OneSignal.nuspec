@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
         <id>nventive.Com.OneSignal</id>
-        <version>3.1.1</version>
+        <version>3.2.0</version>
         <title>nventive version of OneSignal SDK for Xamarin</title>
         <authors>nventive, OneSignal, Martijn van Dijk</authors>
         <owners>OneSignal</owners>
